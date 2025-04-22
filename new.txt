@@ -1,6 +1,8 @@
-this is a local file 
+this is the local file 
 added to remote repo
-
+ 
+which now has been modified
+changes added locally
 
 
 
